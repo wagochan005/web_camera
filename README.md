@@ -24,4 +24,4 @@
 ## 作成メモ
 初作成のプログラム。うまく動けばいいのだが。。。
 OPENCVを使用した物体認識＆色取得プログラム。
-詳細はQiita(https://qiita.com/Chima005)に記録予定
+詳細はQiita(https://qiita.com/Chima005) に記録予定
